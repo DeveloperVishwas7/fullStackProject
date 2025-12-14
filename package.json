@@ -1,0 +1,20 @@
+{
+  "name": "fullstackproject",
+  "version": "1.0.0",
+  "description": "tourist place recommendation",
+  "homepage": "https://github.com/DeveloperVishwas7/fullStackProject#readme",
+  "bugs": {
+    "url": "https://github.com/DeveloperVishwas7/fullStackProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperVishwas7/fullStackProject.git"
+  },
+  "license": "ISC",
+  "author": "vishwas jangid",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+   "start" : "node server.js"
+  }
+}
